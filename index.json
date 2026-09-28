@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-arweave-module",
+  "versions": [
+    {
+      "commit": "fdb0daf0954c95613fb3069af9626e7b5ad3027d",
+      "tag": "master",
+      "parsed_at": "2026-09-28T07:41:37.918066+00:00"
+    }
+  ]
+}
